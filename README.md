@@ -1,11 +1,9 @@
-# OS-Midterm
-
-## เป็นคำถามท้ายบทของหนังสือ ระบบปฏิบัติการคอมพิวเตอร์ยุคใหม่
-Chap 1 - ระบบปฏิบัติการ <br>
-Chap 2 - กระบวนการและเธร็ด <br>
-Chap 3 - การจัดกำหนดการของกระบวนการ <br>
-Chap 4 - การจัดการภาวะะพร้อมกัน <br>
-Chap 5 - การจัดการหน่วยความจำ <br>
+# OS-Midterm เป็นคำถามท้ายบทของหนังสือ ระบบปฏิบัติการคอมพิวเตอร์ยุคใหม่
+Chap 1 - ระบบปฏิบัติการ [คลิก](https://github.com/wachawich/OS-Midterm/blob/main/Chap1.md) <br>
+Chap 2 - กระบวนการและเธร็ด [คลิก](https://github.com/wachawich/OS-Midterm/blob/main/Chap2.md) <br>
+Chap 3 - การจัดกำหนดการของกระบวนการ [คลิก](https://github.com/wachawich/OS-Midterm/blob/main/Chap3.md) <br>
+Chap 4 - การจัดการภาวะะพร้อมกัน [คลิก](https://github.com/wachawich/OS-Midterm/blob/main/Chap4.md) <br>
+Chap 5 - การจัดการหน่วยความจำ [คลิก](https://github.com/wachawich/OS-Midterm/blob/main/Chap5.md) <br>
 
 # Model
 GPT-4o temperature=0.5
